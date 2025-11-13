@@ -1,70 +1,67 @@
-# 🌸 Calculadora Adora — Versão 4.0 💖
+# 🌸 Calculadora Adora — Versão 4.0  
 
-Uma calculadora moderna, responsiva e estilosa, desenvolvida com **HTML, CSS e JavaScript puro**, como parte do meu aprendizado em **desenvolvimento front-end**.
-
----
-
-## 💡 Sobre o projeto
-
-O projeto **Adora v4.0** foi criado para aprimorar minhas habilidades em **HTML, CSS e JavaScript**, explorando **design responsivo**, **lógica de programação** e **organização de código**.
-
-Durante o desenvolvimento, aprendi a:
-- Estruturar uma interface limpa e funcional em **HTML5**.
-- Estilizar com **CSS3** usando **variáveis de cor**, **transições suaves** e **design moderno**.
-- Implementar a lógica de cálculos com **JavaScript**, utilizando **eventos**, **funções** e **manipulação do DOM**.
-- Trabalhar com **Git e GitHub**, aprendendo sobre commits, branches e versionamento de código.
-- Usar o **Codespaces**, um ambiente de desenvolvimento completo e online.
+> Uma calculadora moderna, minimalista e responsiva, desenvolvida com **HTML, CSS e JavaScript puro**, representando a evolução da desenvolvedora **Gleysiane Kelle** 💖  
 
 ---
 
-## ⚙️ Funcionalidades
+## 🪞 Sobre o Projeto
 
-✅ Operações básicas: soma, subtração, multiplicação e divisão.  
-✅ Botão **C** para limpar a tela.  
-✅ Botão **=** estilizado com um toque de rosa forte 🌷.  
-✅ Interface adaptável para diferentes tamanhos de tela (mobile-friendly).  
-✅ Design clean, feminino e moderno, inspirado na estética minimalista.  
+A **Calculadora Adora v4.0** é a nova versão da minha primeira calculadora web.  
+Ela traz uma proposta **limpa, elegante e funcional**, com foco em **usabilidade, acessibilidade e boas práticas de front-end**.
 
----
-
-## 🎨 Paleta de cores
-
-A versão 4.0 trouxe uma nova **paleta de rosas e neutros**, com destaque para o botão de resultado (`=`), agora em **rosa mais forte** para contraste e elegância.
-
-| Função | Cor | Código |
-|:--|:--|:--|
-| Fundo principal | Rosa claro | `#fff0f7` |
-| Botões | Rosa médio | `#ffb3d9` |
-| Botão "=" | Rosa forte | `#ff66a3` |
-| Texto | Neutro escuro | `#333` |
+Essa versão nasceu do desejo de aprimorar meu primeiro projeto (v3.2) e aplicar o que aprendi sobre **semântica, design responsivo e lógica JavaScript**.
 
 ---
 
-## 🧠 Aprendizados
+## ✨ O que há de novo na versão 4.0
 
-💭 Foi incrível ver como pequenos ajustes no CSS podem transformar completamente o visual de um projeto.  
-💭 Reforcei minha lógica em **JavaScript**, especialmente com manipulação de eventos e cálculos dinâmicos.  
-💭 Entendi melhor como **organizar o código** para mantê-lo legível e fácil de atualizar.  
-💭 E aprendi a importância do **versionamento de código** para acompanhar a evolução de um projeto.
-
----
-
-## 🚀 Tecnologias utilizadas
-
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Git & GitHub**
-- **GitHub Codespaces**
+- 🧩 **HTML Semântico**: estrutura mais clara e acessível com uso de `main`, `nav`, `aria-labels` e IDs significativos.  
+- 🎨 **Design refinado**: cores neutras, layout centralizado e sombras sutis para realçar os botões.  
+- ⚙️ **JavaScript otimizado**: lógica mais limpa, com tratamento de erros e cálculo de porcentagem aprimorado.  
+- 📱 **Layout responsivo**: adaptado para telas menores e interação fluida em dispositivos móveis.  
+- 💕 **Toque pessoal**: interface com tons neutros e o clássico rosa da identidade da desenvolvedora.  
 
 ---
 
-## 💬 Sobre mim
+## 🧠 Tecnologias Utilizadas
 
-Feito com muito carinho por **Gleysiane Kelle da Silva** 💖  
-Estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia, design e inovação.  
-Sonhando alto — e codando com estilo! 🌸  
-
-📫 Me encontre no GitHub: [@gleysianekelle](https://github.com/gleysianekelle)
+| Tecnologia | Descrição |
+| :-- | :-- |
+| 🧱 **HTML5** | Estrutura semântica e acessível |
+| 🎨 **CSS3 (Grid Layout)** | Design moderno e responsivo |
+| ⚡ **JavaScript** | Lógica de cálculo, eventos e manipulação do DOM |
 
 ---
+
+## 🪄 Funcionalidades Principais
+
+- Operações básicas: adição, subtração, multiplicação e divisão  
+- Cálculo de porcentagem  
+- Botão de limpar (`C`) e apagar último dígito (`⌫`)  
+- Exibição automática dos resultados no display  
+- Interface intuitiva e agradável para o usuário  
+
+---
+
+## 📷 Preview do Projeto
+
+![Preview da Calculadora Adora v4.0](./preview.png)
+
+> 💡 Dica: se quiser ver ao vivo, acesse o link abaixo!
+
+🔗 **[Veja o projeto publicado no GitHub Pages](https://gleysianekelle.github.io/calculadora-v4.0/)**
+
+---
+
+## 🧩 Como Executar Localmente
+
+Se quiser clonar e testar a calculadora no seu computador:  
+
+```bash
+# Clone o repositório
+git clone https://github.com/gleysianekelle/calculadora-adora-v4.0.git
+
+# Acesse a pasta do projeto
+cd calculadora-adora-v4.0
+
+# Abra o arquivo index.html no navegador
