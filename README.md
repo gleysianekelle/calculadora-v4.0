@@ -47,7 +47,7 @@ Essa versão nasceu do desejo de aprimorar meu primeiro projeto (v3.2) e aplicar
 
 > 💡 Se quiser ver ao vivo, acesse o link abaixo!
 
-🔗 **[Veja o projeto publicado no GitHub Pages](https://github.com/gleysianekelle/calculadora-v4.0)**
+🔗 **[Veja o projeto publicado no GitHub Pages](https://gleysianekelle.github.io/calculadora-v4.0/)**
 
 ---
 
