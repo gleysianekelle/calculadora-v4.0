@@ -47,9 +47,9 @@ Essa versão nasceu do desejo de aprimorar meu primeiro projeto (v3.2) e aplicar
 
 ![Preview da Calculadora Adora v4.0](./preview.png)
 
-> 💡 Dica: se quiser ver ao vivo, acesse o link abaixo!
+> 💡 Se quiser ver ao vivo, acesse o link abaixo!
 
-🔗 **[Veja o projeto publicado no GitHub Pages](https://gleysianekelle.github.io/calculadora-v4.0/)**
+🔗 **[Veja o projeto publicado no GitHub Pages](https://github.com/gleysianekelle/calculadora-v4.0)**
 
 ---
 
@@ -59,7 +59,8 @@ Se quiser clonar e testar a calculadora no seu computador:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/gleysianekelle/calculadora-adora-v4.0.git
+git clone 
+https://github.com/gleysianekelle/calculadora-v4.0
 
 # Acesse a pasta do projeto
 cd calculadora-adora-v4.0
