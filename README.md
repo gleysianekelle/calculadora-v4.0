@@ -61,6 +61,6 @@ git clone
 https://github.com/gleysianekelle/calculadora-v4.0
 
 # Acesse a pasta do projeto
-cd calculadora-adora-v4.0
+cd calculadora-v4.0
 
 # Abra o arquivo index.html no navegador
