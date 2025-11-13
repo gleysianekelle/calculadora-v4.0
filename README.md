@@ -45,8 +45,6 @@ Essa versão nasceu do desejo de aprimorar meu primeiro projeto (v3.2) e aplicar
 
 ## 📷 Preview do Projeto
 
-![Preview da Calculadora Adora v4.0](./preview.png)
-
 > 💡 Se quiser ver ao vivo, acesse o link abaixo!
 
 🔗 **[Veja o projeto publicado no GitHub Pages](https://github.com/gleysianekelle/calculadora-v4.0)**
