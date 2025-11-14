@@ -64,3 +64,39 @@ https://github.com/gleysianekelle/calculadora-v4.0
 cd calculadora-v4.0
 
 # Abra o arquivo index.html no navegador
+
+---
+
+💬 Aprendizados
+
+Durante o desenvolvimento dessa versão, aprimorei conceitos essenciais de front-end, como:
+
+Semântica e acessibilidade no HTML5
+
+Organização de código e reutilização de componentes
+
+Uso do Grid Layout e variáveis CSS
+
+Estrutura e boas práticas em JavaScript
+
+Publicação de projetos no GitHub Pages
+
+> Cada linha de código foi escrita com propósito e carinho — porque aprender a programar é, acima de tudo, uma forma de criar algo bonito e funcional. 💻💕
+
+
+---
+
+👩🏽‍💻 Autora
+
+Desenvolvido por Gleysiane Kelle
+📧 gleysianekelle@gmail.com
+🌐 github.com/gleysianekelle
+
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela no repositório para apoiar meu trabalho! 🌟
+
+---
+
+
